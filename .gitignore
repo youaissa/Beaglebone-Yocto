@@ -1,0 +1,7 @@
+build/buildhistory
+build/cache
+build/downloads
+build/sstate-cache
+build/tmp-glibc
+build/bitbake*
+
