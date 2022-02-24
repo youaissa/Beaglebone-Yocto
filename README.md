@@ -13,4 +13,3 @@ The meta-custom layer contain all packages & custom image ( core-image-beaglebon
 
 The meta-ti contain linux kernel and u-boot and there paches. 
 
-TODO : create dockerFile to build yocto image using docker
